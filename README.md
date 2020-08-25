@@ -31,9 +31,25 @@
 
 * Nunjucks
 
-* Postbird
+* Postbird/ Postgres foram o banco de dados utilizado.
 
 ***
+
+### Requesitos :gear:
+
+Para verificação da aplicação é necessário instalação dos programas abaixo:
+
+*  **Node js** e **NPM**
+1. *npm install* - Instalar as dependências do projeto.
+1. *npm start* - Para rodar a aplicação.
+
+***
+
+#### Licença :scroll:
+ 
+ Este projeto está com a licença MIT. Veja o arquivo de [LICENSE](https://github.com/wevdiaz/NLW-Ecoleta/blob/master/LICENSE) para mais destalhe.
+ 
+ ***
 
 📝 MaratonaDev com idéias inovadoras e muito aprendizado dinâmico no processo. 👍
 
