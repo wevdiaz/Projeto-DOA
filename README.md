@@ -17,8 +17,8 @@
  </a>
  
   <a>
-  <img src="https://img.shields.io/github/commit-activity/w/wevdiaz/Projeto-DOA?color=%23f00">
- </a>
+    <img src="https://img.shields.io/github/last-commit/wevdiaz/Projeto-DOA?color=%23f00">
+  </a>
  
  <a>
   <img alt="Diazz" src="https://img.shields.io/badge/made%20by-Diazz-DOA?color=%23f00">
