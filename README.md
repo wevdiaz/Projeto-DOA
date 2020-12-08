@@ -1,6 +1,33 @@
 # Projeto-DOE
 
 ***
+
+<p align="center">
+ 
+ <a>
+  <img src="https://img.shields.io/github/repo-size/wevdiaz/Projeto-DOA?color=%23f00">
+ </a>
+ 
+ <a>
+  <img src="https://img.shields.io/github/license/wevdiaz/Projeto-DOA?color=%23f00">
+ </a>
+ 
+ <a>
+  <img src="https://img.shields.io/github/languages/count/wevdiaz/Projeto-DOA?color=%23f00">
+ </a>
+ 
+  <a>
+  <img src="https://img.shields.io/github/commit-activity/w/wevdiaz/Projeto-DOA?color=%23f00">
+ </a>
+ 
+ <a>
+  <img alt="Diazz" src="https://img.shields.io/badge/made%20by-Diazz-DOA?color=%23f00">
+ </a>
+ 
+
+ 
+</p>
+
  MaratonaDev da Rocketseat :rocket:
  
  ### Sobre 🗂
