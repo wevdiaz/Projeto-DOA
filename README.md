@@ -62,7 +62,7 @@
 
 ***
 
-### Requesitos :gear:
+### Requisitos :gear:
 
 Para verificação da aplicação é necessário instalação dos programas abaixo:
 
